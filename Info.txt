@@ -1,0 +1,8 @@
+
+1. Do not input black & white images
+2. This is an LSB 3-bit steganography on grayscale images
+3. Comparison code compares the 7 levels (1-bit to 7-bit) of LSB steganography and outputs the graph of correlation of output and input images at different levels of steganography. It tells which steganography is better for the input images.
+
+
+*** THIS CODE IS WRITTEN WITH THE HELP FROM mathworks.com ONLY ***
+*** NOTHING IS COPIED OR USED FROM SOMEONE ELSE'S WORK ***
